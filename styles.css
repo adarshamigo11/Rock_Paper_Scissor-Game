@@ -1,0 +1,27 @@
+body{
+    
+    text-align: center;
+    color: #4d4848;
+    background-color: #0d0d0d ;
+}
+
+.main_card{
+    margin-top: 18%;
+    
+}
+
+h2{
+    font-size: 50px;
+    font-family: cursive;
+}
+
+button{
+    border-radius: 20px;
+    margin: 10px 30px;
+    padding: 15px 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+.result{
+    color:#8f8d8d
+}
